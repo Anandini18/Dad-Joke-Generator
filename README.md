@@ -1,6 +1,33 @@
+![Screenshot (63)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/89d60c29-144a-46c6-90f2-753338c34182)
 # Dad-Joke-Generator
 
 Welcome to the Dad Joke Generator web page! This project is a simple web application that generates random dad jokes for your amusement. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface and fetch jokes from a remote API. Additionally, the page includes a loading button to handle API requests, and it gracefully handles scenarios like 404 errors, offline mode, and no active internet connection.
+
+# Screenshots
+
+## Home Page
+
+![Screenshot (59)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/72f985fa-a61d-45c4-a970-21bc3c110a3f)
+
+## Hovering Effect Of Button
+
+![Screenshot (60)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/ec8749e0-e76a-47e5-900a-2f9e34562813)
+
+## Loading Page 
+![Screenshot (61)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/6712f236-ee9e-4863-8768-39dfce229681)
+
+## Joke Section
+
+![Uploading Screenshot (64).png…]()
+![Uploading Screenshot (62).png…]()
+
+
+## Network Error
+
+![Screenshot (65)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/deb99af8-e0ac-4a56-9b1f-bde5c3966aa8)
+
+# Demo
+You can experience the live version of PawMatch by visiting https://anandini18.github.io/Dad-Joke-Generator/.
 
 # Features
 - Dad Joke Generation: Click on the "Get a Joke" button to fetch a random dad joke from the API and display it on the page. Each time you click the button, a new joke will be fetched and shown.
