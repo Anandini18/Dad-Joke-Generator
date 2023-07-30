@@ -1,4 +1,3 @@
-![Screenshot (62)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/8494daa2-a027-4e92-b045-1eae3ccb42d5)
 # Dad-Joke-Generator
 
 Welcome to the Dad Joke Generator web page! This project is a simple web application that generates random dad jokes for your amusement. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface and fetch jokes from a remote API. Additionally, the page includes a loading button to handle API requests, and it gracefully handles scenarios like 404 errors, offline mode, and no active internet connection.
@@ -22,6 +21,8 @@ Welcome to the Dad Joke Generator web page! This project is a simple web applica
 ![Screenshot (63)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/4ecbef3b-fc34-4587-bc2f-fca9f7eab2de)
 
 ![Screenshot (63)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/50b9cd68-e50d-4ae2-963d-1fb57b90e158)
+
+![Screenshot (62)](https://github.com/Anandini18/Dad-Joke-Generator/assets/88365547/8494daa2-a027-4e92-b045-1eae3ccb42d5)
 
 ## Network Error
 
