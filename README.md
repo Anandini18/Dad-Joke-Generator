@@ -12,14 +12,13 @@ Welcome to the Dad Joke Generator web page! This project is a simple web applica
 # Technologies Used
 This project is primarily built using the following technologies:
 
-HTML: The structure of the web page is created using HTML to define the layout and elements.
+- HTML: The structure of the web page is created using HTML to define the layout and elements.
 
-CSS: CSS styles are applied to enhance the visual appearance of the web page and make it responsive.
+- CSS: CSS styles are applied to enhance the visual appearance of the web page and make it responsive.
 
-JavaScript: JavaScript is responsible for fetching data from the API, updating the page content, and handling various user interactions.
+- JavaScript: JavaScript is responsible for fetching data from the API, updating the page content, and handling various user interactions.
 
-API
-The Dad Joke Generator web page relies on a third-party API to fetch random dad jokes. The specific API used in this project is [INSERT API NAME HERE]. The API provides a collection of dad jokes in JSON format.
+- API : The Dad Joke Generator web page relies on a third-party API to fetch random dad jokes. The specific API used in this project is [https://api-ninjas.com/]. The API provides a collection of dad jokes in JSON format.
 
 # How to Use
 - Clone or download the project repository from GitHub.
