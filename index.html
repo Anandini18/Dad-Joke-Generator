@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Sets the character encoding of the document to UTF-8 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Instructs Internet Explorer to use the latest rendering engine -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Sets the viewport properties for responsive web design -->
+    <title>Dad Joke Generator</title>
+    <!-- Specifies the title of the web page -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <!-- The line above sets the favicon for the web page. -->
+    <!-- The favicon is a small image that appears in the browser's tab or bookmark bar. -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Links an external CSS file for styling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- Preconnects to the Google Fonts API to improve font loading -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Preconnects to the Google Fonts API's host server with cross-origin support -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Preconnects to the Google Fonts API and its host server with cross-origin support -->
+    <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Loads the "Anonymous Pro" font from Google Fonts -->
+</head> 
+<body>
+    <div id="container-div">
+        <!-- The main container div -->
+        <img id="dad" class="container-div-child" src="dad.png"></img>
+        <!-- An image of a dad, with an ID of "dad" and a class of "container-div-child" -->
+        <div class="joke-div container-div-child">
+            <!-- A div for displaying the joke, with a class of "joke-div" and "container-div-child" -->
+            <div class="lds-ellipsis" id="loader"><div></div><div></div><div></div><div></div></div>
+            <!-- A loading spinner animation, with a class of "lds-ellipsis" and an ID of "loader" -->
+            <p class="joke" id="joke">"Unleash the dad joke brigade!"</p>
+            <!-- A paragraph element displaying the initial joke message, with a class of "joke" and an ID of "joke" -->
+            <button class="btn" id="btn">Get a DAD Joke</button>
+            <!-- A button for generating a new joke, with a class of "btn" and an ID of "btn" -->
+        </div>
+    </div>
+    <script src="index.js"></script>
+    <!-- Links an external JavaScript file for handling the functionality of the page -->
+</body>
+</html>
