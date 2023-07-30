@@ -22,13 +22,13 @@ API
 The Dad Joke Generator web page relies on a third-party API to fetch random dad jokes. The specific API used in this project is [INSERT API NAME HERE]. The API provides a collection of dad jokes in JSON format.
 
 # How to Use
--Clone or download the project repository from GitHub.
+- Clone or download the project repository from GitHub.
 
--Open the index.html file in your web browser.
+- Open the index.html file in your web browser.
 
--Click on the "Get a Joke" button to fetch and display a random dad joke.
+- Click on the "Get a Joke" button to fetch and display a random dad joke.
 
--Enjoy the dad jokes and have a good laugh!
+- Enjoy the dad jokes and have a good laugh!
 
 # Known Issues
 Sometimes, due to issues with the API or internet connectivity, jokes might not load as expected. In such cases, the error message will be displayed.
